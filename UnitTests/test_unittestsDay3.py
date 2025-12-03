@@ -33,4 +33,4 @@ def test_findOneInvalid23():
 
 def test_findOneInvalid24():
     result = day32.findHighestJoltageCombi('818181911112111')
-    assert result == 8889111121112
+    assert result == 888911112111
