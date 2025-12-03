@@ -1,4 +1,4 @@
-import day12  # Name deiner Datei ohne .py anpassen
+import day12
 
 
 def test_empty():
